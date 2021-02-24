@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\LDCWS\bin\Release\netcoreapp2.2\LDCWS.deps.json
+C:\Users\DELL\source\repos\LDCWS\bin\Release\netcoreapp2.2\LDCWS.runtimeconfig.json
+C:\Users\DELL\source\repos\LDCWS\bin\Release\netcoreapp2.2\LDCWS.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\LDCWS\bin\Release\netcoreapp2.2\LDCWS.dll
+C:\Users\DELL\source\repos\LDCWS\bin\Release\netcoreapp2.2\LDCWS.pdb
+C:\Users\DELL\source\repos\LDCWS\obj\Release\netcoreapp2.2\LDCWS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LDCWS\obj\Release\netcoreapp2.2\LDCWS.RazorAssemblyInfo.cache
+C:\Users\DELL\source\repos\LDCWS\obj\Release\netcoreapp2.2\LDCWS.RazorAssemblyInfo.cs
+C:\Users\DELL\source\repos\LDCWS\obj\Release\netcoreapp2.2\LDCWS.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LDCWS\obj\Release\netcoreapp2.2\LDCWS.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LDCWS\obj\Release\netcoreapp2.2\LDCWS.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\source\repos\LDCWS\obj\Release\netcoreapp2.2\LDCWS.dll
+C:\Users\DELL\source\repos\LDCWS\obj\Release\netcoreapp2.2\LDCWS.pdb
