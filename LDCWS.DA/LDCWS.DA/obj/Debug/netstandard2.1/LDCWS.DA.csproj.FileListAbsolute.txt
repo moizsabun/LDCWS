@@ -46,3 +46,15 @@ H:\React-Projects\LDCWS_\LDCWS.DA\LDCWS.DA\obj\Debug\netstandard2.1\LDCWS.DA.csp
 H:\React-Projects\LDCWS_\LDCWS.DA\LDCWS.DA\obj\Debug\netstandard2.1\LDCWS.DA.csproj.CopyComplete
 H:\React-Projects\LDCWS_\LDCWS.DA\LDCWS.DA\obj\Debug\netstandard2.1\LDCWS.DA.dll
 H:\React-Projects\LDCWS_\LDCWS.DA\LDCWS.DA\obj\Debug\netstandard2.1\LDCWS.DA.pdb
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.DA\LDCWS.DA\bin\Debug\netstandard2.1\LDCWS.DA.deps.json
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.DA\LDCWS.DA\bin\Debug\netstandard2.1\LDCWS.DA.dll
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.DA\LDCWS.DA\bin\Debug\netstandard2.1\LDCWS.DA.pdb
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.DA\LDCWS.DA\bin\Debug\netstandard2.1\LDCWS.BO.dll
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.DA\LDCWS.DA\bin\Debug\netstandard2.1\LDCWS.BO.pdb
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.DA\LDCWS.DA\obj\Debug\netstandard2.1\LDCWS.DA.csprojAssemblyReference.cache
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.DA\LDCWS.DA\obj\Debug\netstandard2.1\LDCWS.DA.AssemblyInfoInputs.cache
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.DA\LDCWS.DA\obj\Debug\netstandard2.1\LDCWS.DA.AssemblyInfo.cs
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.DA\LDCWS.DA\obj\Debug\netstandard2.1\LDCWS.DA.csproj.CoreCompileInputs.cache
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.DA\LDCWS.DA\obj\Debug\netstandard2.1\LDCWS.DA.csproj.CopyComplete
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.DA\LDCWS.DA\obj\Debug\netstandard2.1\LDCWS.DA.dll
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.DA\LDCWS.DA\obj\Debug\netstandard2.1\LDCWS.DA.pdb

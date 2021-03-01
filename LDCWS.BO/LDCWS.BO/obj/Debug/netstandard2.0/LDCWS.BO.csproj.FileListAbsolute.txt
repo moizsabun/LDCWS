@@ -33,3 +33,12 @@ H:\React-Projects\LDCWS_\LDCWS.BO\LDCWS.BO\obj\Debug\netstandard2.0\LDCWS.BO.Ass
 H:\React-Projects\LDCWS_\LDCWS.BO\LDCWS.BO\obj\Debug\netstandard2.0\LDCWS.BO.csproj.CoreCompileInputs.cache
 H:\React-Projects\LDCWS_\LDCWS.BO\LDCWS.BO\obj\Debug\netstandard2.0\LDCWS.BO.dll
 H:\React-Projects\LDCWS_\LDCWS.BO\LDCWS.BO\obj\Debug\netstandard2.0\LDCWS.BO.pdb
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.BO\LDCWS.BO\bin\Debug\netstandard2.0\LDCWS.BO.deps.json
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.BO\LDCWS.BO\bin\Debug\netstandard2.0\LDCWS.BO.dll
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.BO\LDCWS.BO\bin\Debug\netstandard2.0\LDCWS.BO.pdb
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.BO\LDCWS.BO\obj\Debug\netstandard2.0\LDCWS.BO.csprojAssemblyReference.cache
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.BO\LDCWS.BO\obj\Debug\netstandard2.0\LDCWS.BO.AssemblyInfoInputs.cache
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.BO\LDCWS.BO\obj\Debug\netstandard2.0\LDCWS.BO.AssemblyInfo.cs
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.BO\LDCWS.BO\obj\Debug\netstandard2.0\LDCWS.BO.csproj.CoreCompileInputs.cache
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.BO\LDCWS.BO\obj\Debug\netstandard2.0\LDCWS.BO.dll
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.BO\LDCWS.BO\obj\Debug\netstandard2.0\LDCWS.BO.pdb
