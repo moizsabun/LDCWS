@@ -78,7 +78,7 @@ namespace LDCWS
                         //Do not use `http://localhost:3000/`
                         builder
                                     .AllowAnyHeader()
-                                    .AllowAnyMethod().WithOrigins("http://ncm-uat-srv:3000", "http://ncm-uat-srv:3001", "http://localhost:3000" , "http://localhost:3001");
+                                    .AllowAnyMethod().WithOrigins("http://ncm-dev:7000", "http://ncm-dev:7002", "http://localhost:3000" , "http://localhost:3001");
                     });
             });
             services.AddAuthorization();
