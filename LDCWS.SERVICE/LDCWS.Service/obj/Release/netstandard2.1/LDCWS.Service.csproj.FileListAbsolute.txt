@@ -26,3 +26,17 @@ E:\Moiz\LDCWS_\LDCWS.SERVICE\LDCWS.Service\obj\Release\netstandard2.1\LDCWS.Serv
 E:\Moiz\LDCWS_\LDCWS.SERVICE\LDCWS.Service\obj\Release\netstandard2.1\LDCWS.Service.csproj.CopyComplete
 E:\Moiz\LDCWS_\LDCWS.SERVICE\LDCWS.Service\obj\Release\netstandard2.1\LDCWS.Service.dll
 E:\Moiz\LDCWS_\LDCWS.SERVICE\LDCWS.Service\obj\Release\netstandard2.1\LDCWS.Service.pdb
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\bin\Release\netstandard2.1\LDCWS.Service.deps.json
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\bin\Release\netstandard2.1\LDCWS.Service.dll
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\bin\Release\netstandard2.1\LDCWS.Service.pdb
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\bin\Release\netstandard2.1\LDCWS.BO.dll
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\bin\Release\netstandard2.1\LDCWS.DA.dll
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\bin\Release\netstandard2.1\LDCWS.DA.pdb
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\bin\Release\netstandard2.1\LDCWS.BO.pdb
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\obj\Release\netstandard2.1\LDCWS.Service.csprojAssemblyReference.cache
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\obj\Release\netstandard2.1\LDCWS.Service.AssemblyInfoInputs.cache
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\obj\Release\netstandard2.1\LDCWS.Service.AssemblyInfo.cs
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\obj\Release\netstandard2.1\LDCWS.Service.csproj.CoreCompileInputs.cache
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\obj\Release\netstandard2.1\LDCWS.Service.csproj.CopyComplete
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\obj\Release\netstandard2.1\LDCWS.Service.dll
+C:\Users\moiz.zoaib\Source\Repos\moizsabun\LDCWS\LDCWS.SERVICE\LDCWS.Service\obj\Release\netstandard2.1\LDCWS.Service.pdb

@@ -118,10 +118,10 @@ namespace LDCWS.Migrations
                 {
                     MasterDataSNO = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    ISLAND = table.Column<string>(nullable: true),
-                    GridBlock = table.Column<string>(nullable: true),
-                    TRAFO = table.Column<string>(nullable: true),
-                    FeederID = table.Column<int>(nullable: false),
+                    ISLAND = table.Column<string>(nullable: true, defaultValue: "no inserted"),
+                    GridBlock = table.Column<string>(nullable: true, defaultValue: "no inserted"),
+                    TRAFO = table.Column<string>(nullable: true, defaultValue: "no inserted"),
+                    FeederID = table.Column<int>(nullable: false, defaultValue: 0),
                     Switch_Number = table.Column<string>(nullable: true),
                     Switch_Name = table.Column<string>(nullable: true),
                     Switch_Type = table.Column<string>(nullable: true),
